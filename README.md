@@ -1,5 +1,5 @@
 # informatics
-<h1 href='https://github.com/kirillusgudkov/informatics/tree/main/lab1'>lab1</h1>
+<h1> <a href='https://github.com/kirillusgudkov/informatics/tree/main/lab1'>lab1</a></h1>
 <ul>
   <li><a href='https://github.com/kirillusgudkov/informatics/tree/main/lab1/1.asm'>task1</a></li>
   <li><a href='https://github.com/kirillusgudkov/informatics/tree/main/lab1/2.asm'>task2</a></li>
@@ -10,5 +10,5 @@
 <ul>
   <li><a href='https://github.com/kirillusgudkov/informatics/tree/main/lab2/1.asm'>task1</a></li>
   <li><a href='https://github.com/kirillusgudkov/informatics/tree/main/lab2/2.asm'>task2</a></li>
-  <li><h1 href='https://github.com/kirillusgudkov/informatics/tree/main/lab2/3.asm'>task3</h1></li> <a href='https://github.com/kirillusgudkov/informatics/blob/main/lab2/selection3.jpg'>Scheme</a>
+  <li><a href='https://github.com/kirillusgudkov/informatics/tree/main/lab2/3.asm'>task3</a></li> <a href='https://github.com/kirillusgudkov/informatics/blob/main/lab2/selection3.jpg'>Scheme</a>
 </ul>
