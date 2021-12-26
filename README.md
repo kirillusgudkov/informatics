@@ -12,4 +12,5 @@
   <li><a href='https://github.com/kirillusgudkov/informatics/tree/main/lab2/2.asm'>task2</a></li>
   <li><a href='https://github.com/kirillusgudkov/informatics/tree/main/lab2/3.asm'>task3</a></li> <a href='https://github.com/kirillusgudkov/informatics/blob/main/lab2/selection3.jpg'>Scheme</a>
 </ul>
-![hippo](https://github.com/kirillusgudkov/informatics/blob/main/bedtime-sleep-well.gif)
+
+<img src="https://github.com/kirillusgudkov/informatics/blob/main/bedtime-sleep-well.gif"/>
