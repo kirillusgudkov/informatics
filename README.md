@@ -13,4 +13,4 @@
   <li><a href='https://github.com/kirillusgudkov/informatics/tree/main/lab2/3.asm'>task3</a></li> <a href='https://github.com/kirillusgudkov/informatics/blob/main/lab2/selection3.jpg'>Scheme</a>
 </ul>
 
-<img align='center' src="https://github.com/kirillusgudkov/informatics/blob/main/bedtime-sleep-well.gif"/>
+<img align="center" src="https://github.com/kirillusgudkov/informatics/blob/main/bedtime-sleep-well.gif"/>
