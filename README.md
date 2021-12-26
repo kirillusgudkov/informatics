@@ -1,12 +1,12 @@
 # informatics
-<a font-weight: bold href='https://github.com/kirillusgudkov/informatics/tree/main/lab1'>lab1</a>
+<a style="font-weight: bold" href='https://github.com/kirillusgudkov/informatics/tree/main/lab1'>lab1</a>
 <ul>
   <li><a href='https://github.com/kirillusgudkov/informatics/tree/main/lab1/1.asm'>task1</a></li>
   <li><a href='https://github.com/kirillusgudkov/informatics/tree/main/lab1/2.asm'>task2</a></li>
   <li><a href='https://github.com/kirillusgudkov/informatics/tree/main/lab1/3.asm'>task3</a></li> <a href='https://github.com/kirillusgudkov/informatics/blob/main/lab1/maximf3.jpg'>Scheme</a>
 </ul>
 
-<a font-weight: bold href='https://github.com/kirillusgudkov/informatics/tree/main/lab2'>lab2</a>
+<a style="font-weight: bold" href='https://github.com/kirillusgudkov/informatics/tree/main/lab2'>lab2</a>
 <ul>
   <li><a href='https://github.com/kirillusgudkov/informatics/tree/main/lab2/1.asm'>task1</a></li>
   <li><a href='https://github.com/kirillusgudkov/informatics/tree/main/lab2/2.asm'>task2</a></li>
